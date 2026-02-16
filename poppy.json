@@ -6,7 +6,7 @@
 	  "admob_inters_tig": "ca-app-pub-6539988063795357/5991394249",
 	  "admob_openAd": "ca-app-pub-6539988063795357/",
       "inter_first": 50000,
-      "inter_repeat": 400000,
+      "inter_repeat": 360000,
 	  "unity_inter": "Interstitial_Android",
       "unity_games": "xxxxxxx",
       "first_unity_ads": 50000,
