@@ -1,9 +1,9 @@
 {
   "Gallon": [
     {
-	  "admob_inters": "ca-app-pub-6539988063795357/4510616603",
-	  "admob_inters_dua": "ca-app-pub-6539988063795357/4510616603",
-	  "admob_inters_tig": "ca-app-pub-6539988063795357/4510616603",
+	  "admob_inters": "ca-app-pub-6539988063795357/",
+	  "admob_inters_dua": "ca-app-pub-6539988063795357/",
+	  "admob_inters_tig": "ca-app-pub-6539988063795357/",
 	  "admob_openAd": "ca-app-pub-6539988063795357/",
       "inter_first": 50000,
       "inter_repeat": 360000,
@@ -11,8 +11,8 @@
       "unity_games": "xxxxxxx",
       "first_unity_ads": 50000,
       "repeat_unity_ads": 500000,
-	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.pixelcraft.smileyfunworld"
+	  "latest_version": "9",
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.poppycraft.mysteryadventure"
     }
   ]
 }
